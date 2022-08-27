@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/elijahamoako/Projects/ATM/ATM/ATM.csproj": {}
+    "/Users/elijahamoako/Desktop/Portfolio-C#/ATM/ATM/ATM.csproj": {}
   },
   "projects": {
-    "/Users/elijahamoako/Projects/ATM/ATM/ATM.csproj": {
+    "/Users/elijahamoako/Desktop/Portfolio-C#/ATM/ATM/ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/elijahamoako/Projects/ATM/ATM/ATM.csproj",
+        "projectUniqueName": "/Users/elijahamoako/Desktop/Portfolio-C#/ATM/ATM/ATM.csproj",
         "projectName": "ATM",
-        "projectPath": "/Users/elijahamoako/Projects/ATM/ATM/ATM.csproj",
+        "projectPath": "/Users/elijahamoako/Desktop/Portfolio-C#/ATM/ATM/ATM.csproj",
         "packagesPath": "/Users/elijahamoako/.nuget/packages/",
-        "outputPath": "/Users/elijahamoako/Projects/ATM/ATM/obj/",
+        "outputPath": "/Users/elijahamoako/Desktop/Portfolio-C#/ATM/ATM/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/elijahamoako/.nuget/NuGet/NuGet.Config"
