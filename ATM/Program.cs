@@ -6,12 +6,16 @@
     int tries = 0;
     bool outOfTries = false;
     bool makeNewTransaction = true;
-
+    
     Console.Clear();
     Console.Title = "My ATM App";
 
     Console.WriteLine("Welcome to my ATM app.");
     Console.WriteLine("______________________");
+    DateTime date = DateTime.Now;
+    Console.WriteLine($"Date: {date}");
+    Console.WriteLine("\nPress enter to continue.");
+    Console.ReadLine();
 
 
     while (tries != tryLimit && !outOfTries && makeNewTransaction == true)
