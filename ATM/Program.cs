@@ -84,6 +84,7 @@
             else
             {
                 makeNewTransaction = false;
+                Console.WriteLine("Thank you! Take out your card.");
             }
         }
         else
@@ -110,7 +111,7 @@ catch (Exception ex)
     Console.WriteLine("Invalid input!");
 }
 
-
+Console.ReadLine();
 
 //methods
 static double Withdrawal(double balance, double amount)
